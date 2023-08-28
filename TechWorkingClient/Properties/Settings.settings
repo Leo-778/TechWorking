@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TechWorkingClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HostUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost/TechWorkingServer/TechWorking.asmx</Value>
+    </Setting>
+    <Setting Name="Account" Type="System.String" Scope="User">
+      <Value Profile="(Default)">管理员</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
